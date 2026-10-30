@@ -1,3 +1,5 @@
 /build
 /.vscode
 /.zed
+/cmake-build-debug-mingw
+/cmake-build-release-mingw
